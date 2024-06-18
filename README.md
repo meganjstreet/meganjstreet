@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Meg</h1>
+<h1 align="center">Howzit, I'm Meg</h1>
 <h3 align="center">An eager full stack developer from Cape Town 🪳</h3>
 
-🔭 I’m currently working on [productivityPEST](www.productivitypest.xyz)
+🤡 I’m currently working on finding and fixing bugs in my Le Wagon Web Development Bootcamp final project [productivityPEST](www.productivitypest.xyz)
+💌 Contact me at **meganjstreet@gmail.com**
 
-📫 How to reach me **meganjstreet@gmail.com**
 
-⚡ Fun fact **I love code**
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
