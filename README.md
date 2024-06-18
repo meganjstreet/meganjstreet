@@ -2,7 +2,9 @@
 <h3 align="center">An eager full stack developer from Cape Town 🪳</h3>
 
 🤡 I’m currently working on finding and fixing bugs in my Le Wagon Web Development Bootcamp final project [productivityPEST](www.productivitypest.xyz)
+
 💌 Contact me at **meganjstreet@gmail.com**
+
 
 
 
