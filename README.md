@@ -1,12 +1,12 @@
 <h1 align="center">Howzit, I'm Meg</h1>
 <h3 align="center">An eager full stack developer from Cape Town 🪳</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meganjstreet1&label=Profile%20views&color=0e75b6&style=flat" alt="meganjstreet" /> </p>
+
 🤡 I’m currently working on finding and fixing bugs in my Le Wagon Web Development Bootcamp final project [productivityPEST](https://github.com/meganjstreet/productivitypest)
 
 💌 Contact me at **meganjstreet@gmail.com**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=meganjstreet.
-36a41c5)
 
 
 
